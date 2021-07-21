@@ -1,0 +1,11 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
